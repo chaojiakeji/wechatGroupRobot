@@ -24,3 +24,4 @@
 ![wechatGroupRobot](https://wistbean.github.io/images/wechat4.jpg)
 
 
+添加语音识别功能
